@@ -1,0 +1,17 @@
+ so, in order to be able to check where I am, I NEED to use ints because I cant trust floats with equality
+ do I scale those ints?
+ I don't really see why not.
+ but, of course, I will be drawing patterns in n^2 time. is it that bad? not yet.
+ I was thinking of storing every possible line as a float, but xpoints don't have floats. I think I'll just make upscaled versions, multiply by size, then divide by upscale factor.
+ 
+ start:
+ 	store the first point
+ 	draw the first line +exit indicator
+ 	get the second point
+ loop:
+ 	draw the enter indicator of the previous line
+ 	update the angle
+ 	draw the next line and its exitindicator
+ 	get and store the next point
+ 	update the visits
+ 	

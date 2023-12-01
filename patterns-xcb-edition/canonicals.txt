@@ -1,0 +1,17 @@
+document where I put pattern angles i will use for my secret script
+symbol: angles, start
+a: 1021, 6
+b: 2021, 4
+c: 5021, 0
+d: 0121, 0
+e: 
+
+
+kris: 6265000, 1
+zandloper: 0305050, 0
+stokfiguurtje: 222764042142, 5
+coole w: 2005003005001, 0
+amogus: 270363062027226, 1
+lemniscaat: 111110077777700, 0
+
+

@@ -1,0 +1,7 @@
+create a header file containing all the declarations and macros
+library file is just a bucnh of function definitions
+turn the library file into an object file:
+gcc file.c -o file.o -c
+turn the program into an object file
+compile the object files together
+gcc library.o program.o -o program
